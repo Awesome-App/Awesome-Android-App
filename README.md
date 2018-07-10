@@ -70,7 +70,15 @@
 
 ### 音频
 
-- 
+- [Spotify](https://www.spotify.com/) - 全球最大的流媒体音乐服务商，大陆音乐版权少。[![Google Play][play]](https://play.google.com/store/apps/details?id=com.spotify.music)
+- [QQ音乐](https://y.qq.com/) -  腾讯旗下流媒体音乐拥有众多大陆音乐版权，是中国大陆最大的网络音乐平台 ，且入股了Spotify。[![Google Play][play]](https://play.google.com/store/apps/details?id=com.tencent.qqmusic)
+- [虾米音乐](https://www.xiami.com/) - 阿里巴巴旗下音乐。[![Google Play][play]](https://play.google.com/store/apps/details?id=fm.xiami.main)
+- [网易云音乐](https://music.163.com/) - 网易旗下音乐平台，除了提供主要的音乐播放、下载与查找服务外，还提供音乐社交功能，由于受到腾讯和阿里夹击目前版权音乐较少。 
+
+### 视频
+
+- [MX Player](https://sites.google.com/site/mxvpen/) -  强大的本地视频播放器，支持包括AC-3在内的几乎所有音频格式，强力的硬件加速和多种字幕支持。[![Google Play][play]](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
+- [VLC](https://www.videolan.org/vlc/) - 开源免费的跨平台多媒体播放器，支持多种媒体格式例如光盘、设备以及网络串流协议等。 [![Google Play][play]](https://play.google.com/store/apps/details?id=org.videolan.vlc) [![Open Soource Software][OSS Icon]](https://github.com/videolan/vlc-android)
 
 ## 许可证
 
@@ -81,5 +89,6 @@
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+[play]:  ./img/icon_play-161.png
 
 
