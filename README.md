@@ -37,8 +37,8 @@
 
 ## ROM
 
-- [LineageOS](https://lineageos.org/) - [AOSP](https://source.android.com/)其中一个最大的分支,是CyanogenMod的继任者,主打稳定性,未加入某些自定义的功能。 [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master)
-- [Mokee](https://www.mokeedev.com/) - [AOSP](https://source.android.com/)另一个分支,同时也是中国大佬收个完整开源的Android项目,增加的大陆本地化。[![Open-Source Software][OSS Icon]](https://github.com/MoKee)
+- [LineageOS](https://lineageos.org/) - AOSP其中一个最大的分支,是CyanogenMod的继任者,主打稳定性,未加入某些自定义的功能。 [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master)
+- [Mokee](https://www.mokeedev.com/) - AOSP另一个分支,同时也是中国大陆首个完整开源的Android项目,增加了大陆本地化以及一些自定义功能。[![Open-Source Software][OSS Icon]](https://github.com/MoKee)
 - [Resurrection Remix](http://www.resurrectionremix.com/) - 基于Lineageos,集合了众多ROM的功能,高度自定义,包括CyanogenMod，Paranoid Android，Omni，Slim和AOKP。 [![Open-Source Software][OSS Icon]](https://github.com/ResurrectionRemix)
 - [A.C.I.P](http://www.aicp-rom.com/)- 全称Android Ice Cold Project,始于2012年,目前基于LineageOS,包含许多自定义功能。 [![Open-Source Software][OSS Icon]](https://github.com/AICP)
 - [Aosp Extended](https://www.aospextended.com/) - 基于AOSP,提供许多自定义功能。 [![Open-Source Software][OSS Icon]](https://github.com/AospExtended)
@@ -55,6 +55,22 @@
 ### Open GApps
 
 全称The Open Google Apps Project,Android覆盖版本从4.4~8.1,是目前最受欢迎的Google套件卡刷包项目。[![Open-Source Software][OSS Icon]](https://github.com/opengapps)
+
+以下GApps各版本,为了节省篇幅只添加链接地址:
+
+- [Pico Package](https://github.com/opengapps/opengapps/wiki/Pico-Package)
+- [Nano Package](https://github.com/opengapps/opengapps/wiki/Nano-Package)
+- [Micro Packge](https://github.com/opengapps/opengapps/wiki/Micro-Package)
+- [Mini Package](https://github.com/opengapps/opengapps/wiki/Mini-Package)
+- [Full Package](https://github.com/opengapps/opengapps/wiki/Full-Package)
+- [Stock Package](https://github.com/opengapps/opengapps/wiki/Stock-Package)
+- [Super Package](https://github.com/opengapps/opengapps/wiki/Super-Package)
+
+## 应用
+
+### 音频
+
+- 
 
 ## 许可证
 
