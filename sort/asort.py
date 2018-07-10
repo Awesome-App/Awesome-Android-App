@@ -18,8 +18,8 @@ README_FILE = '../README.md'
 TEMP_FILE = 'temp.md'
 
 # only works for those items between BEGIN and END.
-BEGIN = '## Applications'
-END = '## Setup'
+BEGIN = '## ROM'
+END = '## Google'
 
 regex = re.compile(r"[^[]*\[([^]]*)\]")
 
